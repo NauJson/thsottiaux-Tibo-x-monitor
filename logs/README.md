@@ -1,3 +1,3 @@
-# Scan Logs
+# Logs
 
-Daily/hourly scan records of @thsottiaux posts and replies are stored here as Markdown files, named by date (e.g. `2026-09-14.md`).
+按日期存放的扫描记录（Markdown），文件名格式为 `YYYY-MM-DD.md`。
