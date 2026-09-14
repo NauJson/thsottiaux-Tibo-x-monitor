@@ -1,6 +1,6 @@
 # Latest Scan
 
-**扫描时间**: 2026-09-14 16:55 HKT（修正版）
+**扫描时间**: 2026-09-14 16:55 HKT
 
 ## 分类说明
 - **原帖**：他自己单独发起的帖子（Conversation ID = 自己的 Post ID）
@@ -43,7 +43,3 @@
 - **原帖作者**: @alexandr_wang
 - **原帖内容**: Muse absolutely crushes Insect（对比 Muse 和 Instinct）
 - **原帖链接**: https://x.com/alexandr_wang/status/2099197278926098490
-
----
-
-*之后扫描会继续按「原帖 vs 回复」清晰区分。*
