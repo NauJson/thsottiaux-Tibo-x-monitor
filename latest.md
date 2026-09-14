@@ -1,6 +1,6 @@
 # Latest Scan
 
-**扫描时间**: 2026-09-14 18:16 北京时间
+**扫描时间**: 2026-09-14 19:00 北京时间
 
 本次扫描：No new posts。
 
@@ -26,7 +26,7 @@
 
 ### 回复 1 — 2026-09-14 15:07 北京时间
 - **他的回复**: What’s your actual critique of the design?
-- **互动**: ❤️ 222 | 💬 43
+- **互动**: ❤️ 254 | 💬 44
 - **链接**: https://x.com/thsottiaux/status/2099394561076568290
 - **原帖作者**: @olegakbarov
 - **原帖内容**: thoughts on muse — “unmistakably mark zuckerberg production: violently poor design, pathalogical lack of creativity and low product quality...”
@@ -34,7 +34,7 @@
 
 ### 回复 2 — 2026-09-14 15:06 北京时间
 - **他的回复**: We will fix this
-- **互动**: ❤️ 651 | 🔄 24 | 💬 75
+- **互动**: ❤️ 762 | 🔄 26 | 💬 83
 - **链接**: https://x.com/thsottiaux/status/2099394367744356554
 - **原帖作者**: @mark_k
 - **原帖内容**: 批评 ChatGPT 桌面端把 Chat / Work / Codex 分开是 “usability mess”
@@ -42,7 +42,7 @@
 
 ### 回复 3 — 2026-09-14 15:05 北京时间
 - **他的回复**: lol
-- **互动**: ❤️ 188 | 💬 14
+- **互动**: ❤️ 211 | 💬 16
 - **链接**: https://x.com/thsottiaux/status/2099393997026582791
 - **原帖作者**: @alexandr_wang
 - **原帖内容**: Muse absolutely crushes Insect（对比 Muse 和 Instinct）
