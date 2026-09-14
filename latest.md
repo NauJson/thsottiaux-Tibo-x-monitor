@@ -1,6 +1,6 @@
 # Latest Scan
 
-**扫描时间**: 2026-09-14 16:55 HKT
+**扫描时间**: 2026-09-14 16:55 北京时间
 
 ## 分类说明
 - **原帖**：他自己单独发起的帖子（Conversation ID = 自己的 Post ID）
@@ -10,7 +10,7 @@
 
 ## 1. 原帖（独立发帖）
 
-### 2026-09-14 15:01 HKT
+### 2026-09-14 15:01 北京时间
 - **内容**: What’s a feature we should remove from Codex that isn’t useful anymore?
 - **互动**: ❤️ 2,961 | 🔄 58 | 💬 3,774+ | 👁️ 436k+
 - **链接**: https://x.com/thsottiaux/status/2099393115241300166
@@ -20,7 +20,7 @@
 
 ## 2. 回复他人（带上下文）
 
-### 回复 1 — 2026-09-14 15:07 HKT
+### 回复 1 — 2026-09-14 15:07 北京时间
 - **他的回复**: What’s your actual critique of the design?
 - **互动**: ❤️ 165 | 💬 35
 - **链接**: https://x.com/thsottiaux/status/2099394561076568290
@@ -28,7 +28,7 @@
 - **原帖内容**: thoughts on muse — “unmistakably mark zuckerberg production: violently poor design, pathalogical lack of creativity and low product quality...”
 - **原帖链接**: https://x.com/olegakbarov/status/2099294409431122389
 
-### 回复 2 — 2026-09-14 15:06 HKT
+### 回复 2 — 2026-09-14 15:06 北京时间
 - **他的回复**: We will fix this
 - **互动**: ❤️ 450 | 🔄 13 | 💬 58
 - **链接**: https://x.com/thsottiaux/status/2099394367744356554
@@ -36,7 +36,7 @@
 - **原帖内容**: 批评 ChatGPT 桌面端把 Chat / Work / Codex 分开是 “usability mess”
 - **原帖链接**: https://x.com/mark_k/status/2099091185465708690
 
-### 回复 3 — 2026-09-14 15:05 HKT
+### 回复 3 — 2026-09-14 15:05 北京时间
 - **他的回复**: lol
 - **互动**: ❤️ 136 | 💬 13
 - **链接**: https://x.com/thsottiaux/status/2099393997026582791
