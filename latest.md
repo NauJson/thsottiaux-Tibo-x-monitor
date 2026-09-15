@@ -1,10 +1,8 @@
 # Latest Scan
 
-**扫描时间**: 2026-09-15 13:18 北京时间
+**扫描时间**: 2026-09-15 14:23 北京时间
 
-本次扫描：No new posts。
-
-上次已记录的内容如下（无新增原帖或回复）。
+本次新增：1 条原帖 + 2 条回复。
 
 ## 分类说明
 - **原帖**：他自己单独发起的帖子（Conversation ID = 自己的 Post ID）
@@ -14,36 +12,27 @@
 
 ## 1. 原帖（独立发帖）
 
-### 2026-09-14 15:01 北京时间
-- **内容**: What’s a feature we should remove from Codex that isn’t useful anymore?
-- **互动**: ❤️ 7,913 | 🔁 142 | 💬 8,787 | 👁️ 2.79M
-- **链接**: https://x.com/thsottiaux/status/2099393115241300166
-- **热门回复方向**: 大量人吐槽 usage limit / 5h limit / Show pet 等
+### 2026-09-15 14:19 北京时间
+- **内容**: This week will also be a level of ships that you could have expected for DevDay 2025. Crazy
+- **互动**: ❤️ 385 | 🔁 16 | 💬 170 | 👁️ 17.5K
+- **链接**: https://x.com/thsottiaux/status/2099744972195131850
 
 ---
 
 ## 2. 回复他人（带上下文）
 
-### 回复 1 — 2026-09-14 15:07 北京时间
-- **他的回复**: What’s your actual critique of the design?
-- **互动**: ❤️ 482 | 💬 72
-- **链接**: https://x.com/thsottiaux/status/2099394561076568290
-- **原帖作者**: @olegakbarov
-- **原帖内容**: thoughts on muse — “unmistakably mark zuckerberg production: violently poor design, pathalogical lack of creativity and low product quality...”
-- **原帖链接**: https://x.com/olegakbarov/status/2099294409431122389
+### 回复 1 — 2026-09-15 14:22 北京时间
+- **他的回复**: I would even say it's over 9000
+- **互动**: ❤️ 6 | 💬 3
+- **链接**: https://x.com/thsottiaux/status/2099745615118991548
+- **原帖作者**: @thdxr
+- **原帖内容**: 引述 Anthropic 报告毛利已超 80%，回应之前有人质疑其「90% margins wouldn't be crazy」的算账
+- **原帖链接**: https://x.com/thdxr/status/2099573726039691312
 
-### 回复 2 — 2026-09-14 15:06 北京时间
-- **他的回复**: We will fix this
-- **互动**: ❤️ 1,803 | 🔁 36 | 💬 159
-- **链接**: https://x.com/thsottiaux/status/2099394367744356554
-- **原帖作者**: @mark_k
-- **原帖内容**: 批评 ChatGPT 桌面端把 Chat / Work / Codex 分开是 “usability mess”
-- **原帖链接**: https://x.com/mark_k/status/2099091185465708690
-
-### 回复 3 — 2026-09-14 15:05 北京时间
-- **他的回复**: lol
-- **互动**: ❤️ 487 | 💬 27
-- **链接**: https://x.com/thsottiaux/status/2099393997026582791
-- **原帖作者**: @alexandr_wang
-- **原帖内容**: Muse absolutely crushes Insect（对比 Muse 和 Instinct）
-- **原帖链接**: https://x.com/alexandr_wang/status/2099197278926098490
+### 回复 2 — 2026-09-15 14:04 北京时间
+- **他的回复**: So they can play videogames
+- **互动**: ❤️ 153 | 🔁 2 | 💬 58
+- **链接**: https://x.com/thsottiaux/status/2099741116925096020
+- **原帖作者**: @hanghuang_
+- **原帖内容**: 不看好 computer use：模型很强，但让它们通过人类 UI 看屏、点击效率差；更希望给 agent 结构化接口（API / terminal / SSH）
+- **原帖链接**: https://x.com/hanghuang_/status/2099559078687088854
