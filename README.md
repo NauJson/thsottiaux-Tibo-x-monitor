@@ -1,11 +1,11 @@
 # thsottiaux-Tibo-x-monitor
 
-跟踪 X 用户 [@thsottiaux](https://x.com/thsottiaux)（Tibo，Codex & ChatGPT @OpenAI）的最新发帖与回复情况。
+Tracks the latest posts and replies of X user [@thsottiaux](https://x.com/thsottiaux) (Tibo, Codex & ChatGPT @OpenAI).
 
-## 内容说明
-- `latest.md`：最新扫描摘要
-- `logs/`：按日期存放的详细记录（`YYYY-MM-DD.md`）
+## Contents
+- `latest.md`: the most recent scan summary
+- `logs/`: detailed records organized by date (`YYYY-MM-DD.md`)
 
-记录会区分：
-- **原帖**：他自己独立发起的帖子
-- **回复**：他回复别人的帖子（附带对方原帖上下文）
+Records distinguish between:
+- **Original posts**: posts he initiates himself
+- **Replies**: his replies to other people's posts (with the original post included as context)

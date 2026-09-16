@@ -1,3 +1,3 @@
 # Logs
 
-按日期存放的扫描记录（Markdown），文件名格式为 `YYYY-MM-DD.md`。
+Scan records (Markdown) organized by date, with filenames in the format `YYYY-MM-DD.md`.
