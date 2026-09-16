@@ -1,4 +1,4 @@
-# thsottiaux-x-monitor
+# thsottiaux-Tibo-x-monitor
 
 跟踪 X 用户 [@thsottiaux](https://x.com/thsottiaux)（Tibo，Codex & ChatGPT @OpenAI）的最新发帖与回复情况。
 
