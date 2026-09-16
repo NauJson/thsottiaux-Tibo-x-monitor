@@ -1,24 +1,18 @@
 # Latest Scan
 
-**Scan time**: 2026-09-17 06:20 Beijing time (UTC+8) / 15:20 PDT
+**Scan time**: 2026-09-17 07:21 Beijing time (UTC+8) / 16:21 PDT
 
-**New activity**: No new posts.
+**New activity**: 1 original post (quote of @sama).
 
 ## Original posts (this scan)
 
-None new. Last originals remain:
-
-### 1. 02:54 Beijing (UTC+8) / 11:54 PDT (Sep 16)
+### 1. 07:18 Beijing (UTC+8) / 16:18 PDT (Sep 16)
 - **Type**: Original post (quote)
-- **Content**: Astra — Fast, Frontier, Efficient, For everyone
-- **Quoted**: @j_dekoninck — BrokenArXiv / ArXivMath update; GPT-6 Astra on top
-- **Link**: https://x.com/thsottiaux/status/2100297380968997327
-- **Quoted link**: https://x.com/j_dekoninck/status/2100180792601420138
-
-### 2. 02:47 Beijing (UTC+8) / 11:47 PDT (Sep 16)
-- **Type**: Original post
-- **Content**: What is ChatGPT
-- **Link**: https://x.com/thsottiaux/status/2100295443620007993
+- **Content**: Sometimes physics can't be cheated
+- **Quoted**: @sama — the main thing he was excited about launching this week will be next week instead, but worth the wait
+- **Link**: https://x.com/thsottiaux/status/2100363668051603608
+- **Quoted link**: https://x.com/sama/status/2100351958167220547
+- **Engagement**: ❤️ 280 | 🔁 8 | 🗨️ 128 | 📁 14 | 👁️ 19K
 
 ## Replies (this scan)
 
