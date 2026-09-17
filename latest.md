@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-09-17 14:27 Beijing time (UTC+8) / 23:27 PDT (Sep 16)
+**Scan time**: 2026-09-17 15:25 Beijing time (UTC+8) / 00:25 PDT
 
-**New activity**: 0 original posts + 2 replies.
+**New activity**: 0 original posts + 3 replies.
 
 ## Original posts (this scan)
 
@@ -10,16 +10,23 @@ None new.
 
 ## Replies (this scan)
 
-### 1. Reply to @tlxue
-- **His words**: Pretty cool!
-- **Time**: 13:48 Beijing (UTC+8) / 22:48 PDT (Sep 16)
-- **Link**: https://x.com/thsottiaux/status/2100461944860020851
-- **Original post**: Launching Rene — a multiplayer-first iMessage agent you text like a friend (browser, code, shopping, sites, slides, images; no app or signup).
-- **Original link**: https://x.com/tlxue/status/2100288496170574284
+### 1. Reply to @Yuchenj_UW
+- **His words**: Welcome to the shipping era
+- **Time**: 14:40 Beijing (UTC+8) / 23:40 PDT (Sep 16)
+- **Link**: https://x.com/thsottiaux/status/2100474870044016922
+- **Original post**: Databricks rolled out GPT-6 Astra to every engineer; beats Opus 5 on hardest long-horizon tasks and increased coding spend ~60%.
+- **Original link**: https://x.com/Yuchenj_UW/status/2100305789508612366
 
-### 2. Reply to @theo
-- **His words**: Fair
-- **Time**: 13:47 Beijing (UTC+8) / 22:47 PDT (Sep 16)
-- **Link**: https://x.com/thsottiaux/status/2100461541145587999
-- **Original post**: Just got called an Anthropic fanboy by @sama
-- **Original link**: https://x.com/theo/status/2100445321914671203
+### 2. Reply to @ben_issen
+- **His words**: Welcome
+- **Time**: 14:39 Beijing (UTC+8) / 23:39 PDT (Sep 16)
+- **Link**: https://x.com/thsottiaux/status/2100474737420111956
+- **Original post**: Stopped using a browser; only using ChatGPT desktop now for Claude, Notion, Figma, and everything else.
+- **Original link**: https://x.com/ben_issen/status/2100337229893923290
+
+### 3. Reply to @zdogmode
+- **His words**: Revenue happened
+- **Time**: 14:35 Beijing (UTC+8) / 23:35 PDT (Sep 16)
+- **Link**: https://x.com/thsottiaux/status/2100473666635280768
+- **Original post**: what happened to the GPT-6 Astra hype
+- **Original link**: https://x.com/zdogmode/status/2100281485034922014
