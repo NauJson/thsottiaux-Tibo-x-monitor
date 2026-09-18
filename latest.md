@@ -1,21 +1,17 @@
 # Latest Scan
 
-**Scan time**: 2026-09-18 13:21 Beijing time (UTC+8) / 22:21 PDT (Sep 17)
+**Scan time**: 2026-09-18 14:28 Beijing time (UTC+8) / 23:28 PDT (Sep 17)
 
-**New activity**: No new posts.
-
-Most recent activity remains:
+**New activity**: 0 original posts + 1 reply.
 
 ## Original posts
 
-### 1. 01:57 Beijing (UTC+8) / 10:57 PDT (Sep 17)
-- **Content**: Has anyone yet tried to get Astra and Fable to agree on the perfect styleguide? And then host it somewhere with a web mcp.
-- **Link**: https://x.com/thsottiaux/status/2100645454245720513
+None in this scan.
 
 ## Replies
 
-### 1. 02:14 Beijing (UTC+8) / 11:14 PDT (Sep 17) — reply to @vlinx_soft
-- **His words**: See you at DevDay
-- **Link**: https://x.com/thsottiaux/status/2100649624860254629
-- **Original post**: Goodbye, Codex. Disappointed after wasting another $200; swears not to switch back to Codex again.
-- **Original link**: https://x.com/vlinx_soft/status/2100511886089621755
+### 1. 13:37 Beijing (UTC+8) / 22:37 PDT (Sep 17) — reply to @RoCastilloF
+- **His words**: Thanks for having me and nice hoodie Rodrigo 👀
+- **Link**: https://x.com/thsottiaux/status/2100821375812530458
+- **Original post**: Recap of #BrighterTech26 at Commonwealth Bank, including an open conversation with @thsottiaux on the future of software engineering and how AI is changing how teams build and ship.
+- **Original link**: https://x.com/RoCastilloF/status/2100796587127824508
