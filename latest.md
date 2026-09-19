@@ -1,14 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-09-19 12:20 Beijing time (UTC+8) / 21:20 PDT (Sep 18)
+**Scan time**: 2026-09-19 13:21 Beijing time (UTC+8) / 22:21 PDT (Sep 18)
 
-**New activity**: 1 original post + 4 replies.
+**New activity**: No new posts.
 
 ## Today's original posts
 
 ### 11:53 Beijing (UTC+8) / 20:53 PDT (Sep 18)
 - **Content**: Says he worked on the keynote today with @romainhuet and @sama; most of the fun was figuring out how to explain everything because there is so much good material in quick succession. Some things next week so people do not wait too long; excited to show new work and how it comes together in the coming months.
-- **Engagement**: ❤️ 1215 | 🔁 41 | 💬 272 | 📁 66 | 👁️ 61K
+- **Engagement**: ❤️ 2668 | 🔁 81 | 💬 423 | 📁 143 | 👁️ 172K
 - **Link**: https://x.com/thsottiaux/status/2101157729037586694
 
 ## Today's replies to others
