@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-09-20 00:26 Beijing time (UTC+8) / 09:26 PDT (Sep 19)
+**Scan time**: 2026-09-20 01:20 Beijing time (UTC+8) / 10:20 PDT (Sep 19)
 
-**New activity**: No new posts.
+**New activity**: 0 original posts + 5 replies.
 
 ## Today's original posts
 
@@ -10,11 +10,37 @@ None in this scan window.
 
 ## Today's replies to others
 
-None in this scan window.
+### 1. 00:55 Beijing (UTC+8) / 09:55 PDT (Sep 19) — reply to @anah_sahh
+- **His words**: did you bail or at least show him codex before?
+- **Engagement**: ❤️ 106 | 🔁 0 | 💬 25 | 📁 1 | 👁️ 8.9K
+- **Link**: https://x.com/thsottiaux/status/2101354419829010896
+- **Original post**: Met someone who is still copy-pasting code from ChatGPT.
+- **Original link**: https://x.com/anah_sahh/status/2101314121689870393
 
-## Last recorded activity (2026-09-19 Beijing)
+### 2. 00:52 Beijing (UTC+8) / 09:52 PDT (Sep 19) — reply to @hiarun02
+- **His words**: Always improving
+- **Engagement**: ❤️ 203 | 🔁 2 | 💬 31 | 📁 1 | 👁️ 9.9K
+- **Link**: https://x.com/thsottiaux/status/2101353743275135306
+- **Original post**: Asks whether Astra suddenly got much more efficient.
+- **Original link**: https://x.com/hiarun02/status/2101169629670564002
 
-### 11:53 Beijing (UTC+8) / 20:53 PDT (Sep 18) — Original post
-- **Content**: Says he worked on the keynote today with @romainhuet and @sama; most of the fun was figuring out how to explain everything because there is so much good material in quick succession. Some things next week so people do not wait too long; excited to show new work and how it comes together in the coming months.
-- **Engagement**: ❤️ 6862 | 🔁 181 | 💬 897 | 📁 411 | 👁️ 649K
-- **Link**: https://x.com/thsottiaux/status/2101157729037586694
+### 3. 00:49 Beijing (UTC+8) / 09:49 PDT (Sep 19) — reply to @willcb
+- **His words**: I could see Astra and Jev being best friends in real life
+- **Engagement**: ❤️ 269 | 🔁 6 | 💬 33 | 📁 12 | 👁️ 13K
+- **Link**: https://x.com/thsottiaux/status/2101353058110480808
+- **Original post**: Says the Astra “stopping too early” problem is completely solved by Jev.
+- **Original link**: https://x.com/willcb/status/2101178888441516117
+
+### 4. 00:48 Beijing (UTC+8) / 09:48 PDT (Sep 19) — reply to @udiWertheimer
+- **His words**: OK fine. But it’s also still coming in Tuesday
+- **Engagement**: ❤️ 1048 | 🔁 23 | 💬 107 | 📁 47 | 👁️ 47K
+- **Link**: https://x.com/thsottiaux/status/2101352781219258527
+- **Original post**: Jokes that nothing interesting shipped this week, so they owe a banked reset (quoting Tibo on a DevDay-level shipping week).
+- **Original link**: https://x.com/udiWertheimer/status/2101093319501664368
+
+### 5. 00:47 Beijing (UTC+8) / 09:47 PDT (Sep 19) — reply to @GergelyOrosz
+- **His words**: Let’s celebrate this change! Positive reinforcement!
+- **Engagement**: ❤️ 218 | 🔁 2 | 💬 38 | 📁 5 | 👁️ 13K
+- **Link**: https://x.com/thsottiaux/status/2101352396140278226
+- **Original post**: Notes Claude Code took much longer than OpenCode, Codex, and Cursor to add AGENTS.md support, quoting @trq212’s announcement.
+- **Original link**: https://x.com/GergelyOrosz/status/2101296362503414130
